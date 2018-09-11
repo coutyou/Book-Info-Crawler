@@ -1,4 +1,4 @@
-# BookInfoScrapy
+# BookInfoCrawler
 using scrapy to get the information of the books on Dangdang
 ## 开发环境
 * python 3.6
