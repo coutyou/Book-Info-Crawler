@@ -3,6 +3,7 @@ using scrapy to get the information of the books on Dangdang
 ## 开发环境
 * python 3.6
 * scrapy 1.5.0
+* win10
 ## 运行方式
 ### 1.命令行
 * 命令行切换到下载的文件夹目录
